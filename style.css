@@ -243,7 +243,7 @@ img{
 
 /* Creating Work Layout in CSS */
 .work{
-    background: url("../images/plans-background.jpg")center/cover;
+    background: url("../images/background.jpg")center/cover;
 }
 .work .content{
     display:flex;
